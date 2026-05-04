@@ -1,0 +1,3 @@
+playwright
+openpyxl
+IT23706446_repo_link-git@github.com:ShamalIro/IT3040_Assignment_1.git
