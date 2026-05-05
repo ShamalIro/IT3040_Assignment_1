@@ -81,7 +81,7 @@ IT3040_Assignment_1/
 
 ##  Student Information
 
-- Student ID: IT
+- Student ID: IT23706446
 - Module: IT3040  
 - Assignment: Assignment 1 (Option 1)  
 
