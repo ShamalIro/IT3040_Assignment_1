@@ -1,4 +1,4 @@
-# ITxxxxxx – IT3040 Assignment 1
+# IT23706446 – IT3040 Assignment 1
 
 ##  Project Title
 Automated Testing for Singlish to Sinhala Transliteration System
