@@ -4,7 +4,7 @@
 Automated Testing for Singlish to Sinhala Transliteration System
 
 ##  Repository
-
+git@github.com:ShamalIro/IT3040_Assignment_1.git
 
 ---
 
